@@ -1,5 +1,5 @@
 
-###Requisitos funcionais:
+## Requisitos funcionais:
 
 - Lançar nota fiscal/nf-e
 - Lançar inventário
