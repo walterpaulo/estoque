@@ -1,6 +1,5 @@
 package com.lojac.modelo;
 
-import java.util.List;
 
 public class CriadorDeItem {
 	private Item item;
