@@ -1,15 +1,20 @@
+#Controle de Estoque - API e Client/Server
 
-## Requisitos funcionais:
 
-- [x] Lançar nota fiscal/nf-e
-- [x] Lançar inventário
+
+#### Requisitos funcionais:
+
+
+- [ ] Lançar nota fiscal/nf-e
+- [ ] Lançar inventário
 - [ ] Manter pessoa
 - [ ] Manter produto
 - [ ] Manter operador
-- [x] Controlar acesso
+- [ ] Controlar acesso
 
 ---------------------
 
 ![](./estoque1.png)
 
+-------------------
 
